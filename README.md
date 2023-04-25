@@ -1,5 +1,4 @@
-# Mini-Project-IPL-data-
-Research scope: Predicting the winner of the next season of IPL based on past data, Visualizations, Perspectives, etc
+# Mini-Project-IPL-data #Research scope: Predicting the winner of the next season of IPL based on past data, Visualizations, Perspectives, etc
 Q1. What is the maximum number of matches played by an individual player in a season?
 Q2. What is the highest average of a player in a season
 Q3. What is the average number of matches played by a player in a season?
